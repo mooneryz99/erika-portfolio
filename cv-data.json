@@ -1,0 +1,149 @@
+{
+  "cv": {
+    "metadata": {
+      "version": "1.0",
+      "language": "pt-BR",
+      "lastUpdated": "2026-11-17"
+    },
+    "personalInformation": {
+      "fullName": "Erika Ribeiro Santos",
+      "professionalTitle": "Desenvolvedora Full Stack em formação",
+      "profilePhoto": "",
+      "email": "erikaribeirox80@gmail.com",
+      "phone": "",
+      "whatsapp": "",
+      "location": {
+        "city": "Suzano",
+        "state": "São Paulo",
+        "country": "Brasil",
+        "address": ""
+      },
+      "linkedin": "",
+      "github": "https://github.com/mooneryz99",
+      "portfolio": "",
+      "website": ""
+    },
+    "professionalSummary": {
+      "description": "Estudante do 2º semestre de Análise e Desenvolvimento de Sistemas, com conhecimentos em HTML, CSS, JavaScript, Git e GitHub. Atualmente aprofundando os estudos em Python e banco de dados. Interesse em desenvolvimento de software e aprendizado contínuo por meio de projetos práticos.",
+      "yearsOfExperience": 0,
+      "mainSpecialization": "Desenvolvimento web",
+      "careerObjective": "Conseguir uma oportunidade de estágio em desenvolvimento de software, aprender com profissionais da área e desenvolver minhas habilidades técnicas."
+    },
+    "professionalExperience": [
+      {
+        "company": "Instituição de ensino (nome não informado)",
+        "position": "Estagiária de apoio à informática",
+        "employmentType": "Estágio",
+        "location": "Ambiente escolar",
+        "startDate": "",
+        "endDate": "",
+        "current": false,
+        "description": "Experiência breve de aproximadamente uma semana em apoio à informática no ambiente escolar. O estágio foi encerrado antecipadamente devido a cortes de verba.",
+        "responsibilities": [
+          "Apoio em atividades relacionadas à informática no ambiente escolar",
+          "Contato e suporte básico aos usuários no contexto escolar"
+        ],
+        "achievements": [],
+        "technologies": []
+      }
+    ],
+    "education": [
+      {
+        "institution": "Unipiaget",
+        "degree": "Tecnólogo",
+        "fieldOfStudy": "Análise e Desenvolvimento de Sistemas",
+        "level": "Ensino superior — cursando",
+        "startDate": "",
+        "endDate": "",
+        "current": true,
+        "description": "2º semestre."
+      }
+    ],
+    "skills": {
+      "technical": [
+        {
+          "name": "HTML",
+          "level": "Conhecimento inicial"
+        },
+        {
+          "name": "CSS",
+          "level": "Conhecimento inicial"
+        },
+        {
+          "name": "JavaScript",
+          "level": "Conhecimento inicial"
+        },
+        {
+          "name": "Python",
+          "level": "Em aprendizado"
+        },
+        {
+          "name": "Banco de dados",
+          "level": "Em aprendizado"
+        }
+      ],
+      "behavioral": [
+        "Curiosidade",
+        "Facilidade para aprender",
+        "Organização",
+        "Dedicação"
+      ],
+      "tools": [
+        "Git",
+        "GitHub"
+      ],
+      "methodologies": []
+    },
+    "languages": [
+      {
+        "name": "Português",
+        "proficiency": "Nativo"
+      },
+      {
+        "name": "Inglês",
+        "proficiency": "Intermediário"
+      }
+    ],
+    "certifications": [],
+    "projects": [
+      {
+        "name": "Projetos acadêmicos",
+        "description": "Pequenos projetos e exercícios desenvolvidos durante as aulas. Consulte os repositórios disponíveis no GitHub.",
+        "role": "Desenvolvedora",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Git",
+          "GitHub"
+        ],
+        "url": "https://github.com/mooneryz99",
+        "startDate": "",
+        "endDate": ""
+      }
+    ],
+    "courses": [],
+    "additionalInformation": {
+      "availability": "Estágio ou vaga júnior",
+      "workModel": "A combinar",
+      "travelAvailability": false,
+      "additionalNotes": "Certificações e cursos complementares ainda não informados."
+    },
+    "preferences": {
+      "targetPositions": [
+        "Estágio em desenvolvimento de software",
+        "Desenvolvedora júnior"
+      ],
+      "targetIndustries": [
+        "Tecnologia",
+        "Desenvolvimento de software"
+      ],
+      "preferredLocations": [
+        "Suzano, SP",
+        "Região do Alto Tietê",
+        "São Paulo, SP"
+      ],
+      "preferredWorkModel": "A combinar"
+    }
+  }
+}
